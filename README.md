@@ -48,9 +48,8 @@ Install the required libraries using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🚀 How to Run
-
 Each script is standalone. Simply run the desired Python file:
 python filename.py
 
